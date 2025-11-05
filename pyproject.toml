@@ -1,0 +1,11 @@
+[project]
+name = "deep-learning-with-python"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "keras>=3.12.0",
+    "marimo[sql]>=0.17.7",
+    "tensorflow>=2.20.0",
+]
